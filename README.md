@@ -26,8 +26,8 @@ An app for a tech shop for users to explore, buy, and sell tech and computer par
 ## Similar apps reserached
 
 * WhatNot
-    + Quite similar to what we're doing, but instead they scroll through bids of products and have a buy button
-    - Can get too addictive
+    <code style="color: green">+</code> Quite similar to what we're doing, but instead they scroll through bids of products and have a buy button
+    <code style="color: red">-</code> Can get too addictive
 * TikTok
-    + Good recommendation algorithm, gathers data on what you like, reposted, what your friends like, etc...
-    - Too much gathering of data could lead to the breach in privacy
+    <code style="color: green">+</code> Good recommendation algorithm, gathers data on what you like, reposted, what your friends like, etc...
+    -<code style="color: red">-</code> Too much gathering of data could lead to the breach in privacy
