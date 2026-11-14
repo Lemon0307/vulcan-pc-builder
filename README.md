@@ -1,4 +1,4 @@
-# vulcan-pc-builder
+# Vulcan PC Builder
 
 ## Project at a glance:
 
