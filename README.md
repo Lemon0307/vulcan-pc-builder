@@ -4,7 +4,7 @@
 
 An app for a tech shop for users to explore, buy, and sell tech and computer parts
 
-## features:
+## Features
 
 * Scrolling feature
     - For you page (FYP)
@@ -21,4 +21,13 @@ An app for a tech shop for users to explore, buy, and sell tech and computer par
 
 * PC Build generator (not important at the moment)
     - Build user profile (what products they like, what tier of a PC build they're looking for, what games they play, what they use their computer for etc...)
-    - Train model to classify low, mid, and high tier PC builds and PC parts that lie in those categories
+    - Train model to classify low, mid, and high tier PC builds and PC parts that lie in those 
+    
+## Similar apps reserached
+
+* WhatNot
+    + Quite similar to what we're doing, but instead they scroll through bids of products and have a buy button
+    - Can get too addictive
+* TikTok
+    + Good recommendation algorithm, gathers data on what you like, reposted, what your friends like, etc...
+    - Too much gathering of data could lead to the breach in privacy
