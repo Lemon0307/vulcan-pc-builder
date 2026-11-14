@@ -19,9 +19,17 @@ An app for a tech shop for users to explore, buy, and sell tech and computer par
     - (PC building only) Add/Remove from PC build
     - Payment system (possibly stripe)
 
+* Authentication
+    - Strong 2FA or MFA with email
+    - Basic sign up, login methods, and forgot password
+
 * PC Build generator (not important at the moment)
     - Build user profile (what products they like, what tier of a PC build they're looking for, what games they play, what they use their computer for etc...)
     - Train model to classify low, mid, and high tier PC builds and PC parts that lie in those 
+
+* Extras
+    - Adjusting appearance (dark, light mode)
+    - Settings page
     
 ## Similar apps reserached
 
