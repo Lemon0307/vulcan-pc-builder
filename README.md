@@ -1,7 +1,5 @@
 # vulcan-pc-builder
 
-Database password: temp_password123!?
-
 ## Project at a glance:
 
 An app for a tech shop for users to explore, buy, and sell tech and computer parts
@@ -19,8 +17,8 @@ An app for a tech shop for users to explore, buy, and sell tech and computer par
     - Recommend other products that people buy alongside the one added to basket
     - Add/Remove from basket
     - (PC building only) Add/Remove from PC build
-    - Payment system
+    - Payment system (possibly stripe)
 
 * PC Build generator (not important at the moment)
     - Build user profile (what products they like, what tier of a PC build they're looking for, what games they play, what they use their computer for etc...)
-    - 
+    - Train model to classify low, mid, and high tier PC builds and PC parts that lie in those categories
