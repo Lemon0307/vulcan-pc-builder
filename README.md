@@ -26,8 +26,10 @@ An app for a tech shop for users to explore, buy, and sell tech and computer par
 ## Similar apps reserached
 
 ### WhatNot
-    Good: Quite similar to what we're doing, but instead they scroll through bids of products and have a buy button
+    Good: Quite similar to what we're doing, but instead they scroll through bids of 
+        products and have a buy button
     Bad: Can get too addictive
 ### TikTok
-    Good: Excellent recommendation algorithm, gathers data on what you like, reposted, what your friends like, etc...
+    Good: Excellent recommendation algorithm, gathers data on what you like, 
+        reposted, what your friends like, etc...
     Bad: Too much gathering of data could lead to the breach in privacy
