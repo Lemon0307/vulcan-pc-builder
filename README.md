@@ -1,32 +1,24 @@
 # Vulcan PC Builder
 
-## Project at a glance:
+## Project at a glance
 
-An app for a tech shop for users to explore, buy, and sell tech and computer parts
+Vulcan is an early-stage mobile app concept for discovering and shopping for technology, with a dedicated mode for planning custom PC builds
 
-## Features
+## Core features
 
-* Scrolling feature
-    - For you page (FYP)
-    - Trending products in store
-    - New products in the store
-    - New releases of tech for preordering
+- **Short-form tech discovery:** Browse a scrolling feed of product-focused content similar to TikTok.
+- **Swipe-based shopping:** Swipe through products to show interest or dismiss them (similar to Tinder), and add products you like to your basket
+- **PC Build mode:** Plan custom builds and explore compatible components, also has a feature to generate a build tailored to what products the user is interested in when browsing for products
+- **Product research:** Review product information and compare options before buying
 
-* Basic page to find tech products
-    - Filter products by type, clock speed, RAM capacity etc...
-    - Recommend other products that people buy alongside the one added to basket
-    - Add/Remove from basket
-    - (PC building only) Add/Remove from PC build
-    - Payment system (possibly stripe)
+## Technology
 
-* Authentication
-    - Strong 2FA or MFA with email
-    - Basic sign up, login methods, and forgot password
+Vulcan is being developed as a cross-platform mobile app. The intended tech stack to use is React Native (Expo), Flask/Django and Supabase at the moment. The implementation is still evolving, so technical details and feature plans may change
 
-* PC Build generator (not important at the moment)
-    - Build user profile (what products they like, what tier of a PC build they're looking for, what games they play, what they use their computer for etc...)
-    - Train model to classify low, mid, and high tier PC builds and PC parts that lie in those 
+## Project status
 
-* Extras
-    - Adjusting appearance (dark, light mode)
-    - Settings page
+Vulcan is a work in progress. Features and designs may change as we develop and evaluate the idea
+
+## Get involved
+
+Interested in collaborating or sharing feedback? Open an issue or get in touch with me on instagram: @pork_guy_live
